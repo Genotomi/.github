@@ -1,3 +1,5 @@
 ## Genotomi
+Genotomi is a research and innovation community developing experimental projects in genetics, biomedical engineering, and data science.
 
-Genetik, biyomedikal ve veri bilimi tabanlı projeler geliştiren bir araştırma ve inovasyon topluluğu.  
+Core areas: Biomedical Engineering, Genetics, Bioinformatics, Embedded Systems, and Data Analytics
+
