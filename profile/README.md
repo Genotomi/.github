@@ -6,7 +6,8 @@
 
 | Proje | Açıklama |
 |-------|----------|
-| [EmbeddedSystems](https://github.com/Genotomi/EmbeddedSystems) | PCB tasarımları, gömülü sistemler ve sensör uygulamaları üzerine projeler. |
+| [IMU55](https://github.com/Genotomi/IMU55) | BNO055 ile giyilebilir hareket takibi |
+| [EKG8232](https://github.com/Genotomi/EKG8232) | Taşınabilir EKG projesi  |
 | [uFetch](https://github.com/Genotomi/uFetch) | UniProt tabanlı biyoinformatik veri çekme ve analiz aracı (Python GUI). |
 | [ALGENA](https://github.com/Genotomi/ALGENA) | Protein varyantlarının patojenite analizi için geliştirilen deneysel yapay zekâ modeli. |
 | [Erik Pi](https://github.com/Genotomi/Erik-Pi) | Gömülü Linux uygulamaları için tasarlanmış, tek çekirdekli, açık kaynaklı tek kart bilgisayar. Sadelik, kontrol ve özelleştirme arayan geliştiriciler için idealdir. |
