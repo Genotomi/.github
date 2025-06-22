@@ -16,4 +16,4 @@
 
 ---
 
-> Bu sayfa yalnızca organizasyon içi üyeler için yönlendirici olarak hazırlanmıştır. Bazı projeler özel olarak yürütülmektedir.
+> Bu sayfa çoğunlukla organizasyon içi üyeler için yönlendirici olarak hazırlanmıştır. Bazı projeler özel olarak yürütülmektedir.
