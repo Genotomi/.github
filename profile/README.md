@@ -13,6 +13,9 @@
 | [uFetch](https://github.com/Genotomi/uFetch) | UniProt veritabanı temelli biyoinformatik veri çekme ve analiz aracı (Python GUI) |
 | [ALGENA](https://github.com/Genotomi/ALGENA) | Protein varyantlarının patojenitesini analiz etmek üzere geliştirilen deneysel yapay zekâ modeli |
 | [Erik Pi](https://github.com/Genotomi/Erik-Pi) | Gömülü Linux uygulamaları için geliştirilen, tek çekirdekli ve açık kaynaklı tek kart bilgisayar. Sadelik, kontrol ve özelleştirme arayan geliştiriciler için tasarlanmıştır. |
+| [Genomatch](https://github.com/Genotomi/Genomatch) | Genomatch, iki tür arasında genom veya proteom karşılaştırması yaparak BLAST, anotasyon ve fonksiyonel analiz sunan açık kaynaklı, komut satırı tabanlı bir araçtır. |
+
+
 
 ---
 
