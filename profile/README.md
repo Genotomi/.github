@@ -1,7 +1,7 @@
 # Genotomi · Research Organization 
 
 **Genotomi**, genetik, biyomedikal mühendislik ve veri bilimi alanlarında deneysel projeler geliştiren bir araştırma topluluğudur.
-## https://github.com/orgs/Genotomi/projects | Yol Haritası
+## https://github.com/orgs/Genotomi/projects/2 | Yol Haritası
 
 
 ## 🚀 Active Projects
