@@ -1,23 +1,19 @@
-# Genotomi · Research Organization 
+# Genotomi · Araştırma Organizasyonu
 
 **Genotomi**, genetik, biyomedikal mühendislik ve veri bilimi alanlarında deneysel projeler geliştiren bir araştırma topluluğudur.
-## [🗺️ Road Map](https://github.com/orgs/Genotomi/projects/2)
 
+## [🗺️ Yol Haritası](https://github.com/orgs/Genotomi/projects/2)
 
-## Active Projects
+## Aktif Projeler
 
 | Proje | Açıklama |
 |-------|----------|
-| [IMU55](https://github.com/Genotomi/IMU55) | BNO055 ile giyilebilir hareket takibi |
-| [EKG8232](https://github.com/Genotomi/EKG8232) | Taşınabilir EKG projesi  |
-| [uFetch](https://github.com/Genotomi/uFetch) | UniProt tabanlı biyoinformatik veri çekme ve analiz aracı (Python GUI). |
-| [ALGENA](https://github.com/Genotomi/ALGENA) | Protein varyantlarının patojenite analizi için geliştirilen deneysel yapay zekâ modeli. |
-| [Erik Pi](https://github.com/Genotomi/Erik-Pi) | Gömülü Linux uygulamaları için tasarlanmış, tek çekirdekli, açık kaynaklı tek kart bilgisayar. Sadelik, kontrol ve özelleştirme arayan geliştiriciler için idealdir. |
+| [IMU55](https://github.com/Genotomi/IMU55) | BNO055 sensörü ile geliştirilen giyilebilir hareket izleme sistemi |
+| [EKG8232](https://github.com/Genotomi/EKG8232) | Taşınabilir bir EKG (Elektrokardiyografi) projesi |
+| [uFetch](https://github.com/Genotomi/uFetch) | UniProt veritabanı temelli biyoinformatik veri çekme ve analiz aracı (Python GUI) |
+| [ALGENA](https://github.com/Genotomi/ALGENA) | Protein varyantlarının patojenitesini analiz etmek üzere geliştirilen deneysel yapay zekâ modeli |
+| [Erik Pi](https://github.com/Genotomi/Erik-Pi) | Gömülü Linux uygulamaları için geliştirilen, tek çekirdekli ve açık kaynaklı tek kart bilgisayar. Sadelik, kontrol ve özelleştirme arayan geliştiriciler için tasarlanmıştır. |
+
 ---
 
-> Bu sayfa yalnızca organizasyon içi üyeler için yönlendirici olarak tasarlanmıştır. Bazı projeler özel olarak yürütülmektedir.
-
-
-
-
-
+> Bu sayfa yalnızca organizasyon içi üyeler için yönlendirici olarak hazırlanmıştır. Bazı projeler özel olarak yürütülmektedir.
