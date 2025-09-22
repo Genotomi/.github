@@ -7,7 +7,7 @@
 ## Aktif Projeler
 | Proje | Açıklama |
 |-------|----------|
-| [TAUMAP](https://github.com/Genotomi/TAUMAP) | **TAU ANALYSIS FOR UNIFIED MAPPING** – Tau proteininin tüm izoformlarını, fosforilasyon bölgelerini ve klinik varyantlarını entegre biçimde analiz eden biyoinformatik araç |
+| [TAUMAP](https://github.com/Genotomi/TAUMAP) | TAU ANALYSIS FOR UNIFIED MAPPING – Tau proteinleri ile ilgili araç projesi |
 | [IMU55](https://github.com/Genotomi/IMU55) | BNO055 sensörü ile geliştirilen giyilebilir hareket izleme sistemi |
 | [EKG8232](https://github.com/Genotomi/EKG8232) | Taşınabilir bir EKG (Elektrokardiyografi) projesi |
 | [uFetch](https://github.com/Genotomi/uFetch) | UniProt veritabanı temelli biyoinformatik veri çekme ve analiz aracı (Python GUI) |
