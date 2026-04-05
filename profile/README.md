@@ -7,7 +7,7 @@
 ## Aktif Projeler
 | Proje | Açıklama |
 |-------|----------|
-| [VARYON2](https://github.com/Genotomi/Varyon2) | VARYON 3.5 |
+| [VARYON2](https://github.com/Genotomi/Varyon3.5) | VARYON 3.5 |
 | [VARYON2](https://github.com/Genotomi/Varyon2) | VARYON2 |
 | [TAUMAP](https://github.com/Genotomi/TAUMAP) | TAU ANALYSIS FOR UNIFIED MAPPING – Tau proteinleri ile ilgili araç projesi |
 | [IMU55](https://github.com/Genotomi/IMU55) | BNO055 sensörü ile geliştirilen giyilebilir hareket izleme sistemi |
